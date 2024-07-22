@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/matthys/etna/runner'
+make: 'runner' is up to date.
+make: Leaving directory '/home/matthys/etna/runner'
+ 
